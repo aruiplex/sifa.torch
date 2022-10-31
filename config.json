@@ -1,0 +1,10 @@
+{
+  "dataset_path": "F:\\sifa_data\\data\\prostate\\resampled_npz",
+  "check_point_path": "./checkpoint",
+  "logging_file_path": "./log",
+  "domains": ["A", "B"],
+  "procedures": ["train", "val", "test"],
+  "base_learning_rate": 0.0002,
+  "batch_size": 8,
+  "epochs": 20000
+}
